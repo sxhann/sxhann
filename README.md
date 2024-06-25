@@ -1,6 +1,6 @@
 👋 Hey! I’m Sarah! Nice to meet you ( ˶ˆᗜˆ˵ 🎀)!
 
-╰⪼ 🫧 I’m interested in writing better code and a bunch of other hobbies ᯓᡣ𐭩
+╰⪼ 🫧 I’m interested in improving my code and some of other hobbies ᯓᡣ𐭩
 
 ╰⪼ 🌱 I’m currently learning Python
 
