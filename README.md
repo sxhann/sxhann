@@ -1,12 +1,7 @@
-👋 Hey! I’m Sarah! Nice to meet you ( ˶ˆᗜˆ˵ 🎀)!
+👋 Hey! I’m Sarah! Nice to meet you (˶ˆᗜˆ˵ )!
 
-╰⪼ 🫧 I’m interested in improving my code and some of other hobbies ᯓᡣ𐭩
+╰⪼ 🫧 I’m interested in learning web dev, building some cool apps and some of other hobbies
 
-╰⪼ 🌱 I’m currently learning Python
+╰⪼ 🌱 I’m currently learning html, css, javascript 
 
 ╰⪼ 🦋 How to reach me www.linkedin.com/in/sarah-ann8
-
-<!---
-sxhann/sxhann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
